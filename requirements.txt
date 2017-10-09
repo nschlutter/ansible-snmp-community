@@ -1,2 +1,4 @@
 ansible==2.4.0.0
 pysnmp==4.3.9
+cryptography==1.9
+aead==0.2
