@@ -1,2 +1,2 @@
-snmp_read_only: Oct11_S3cur3$nmp1ro
-snmp_read_write: Oct11_S3cur3$nmprw1
+snmp_read_only: changeme_ro
+snmp_read_write: changeme_rw
