@@ -2,5 +2,5 @@ all:
   hosts:
     devcsr1:
       ansible_host: 127.0.0.1
-      port: 2201
+      port: 2222
       ansible_python_interpreter: "/usr/bin/env python"
